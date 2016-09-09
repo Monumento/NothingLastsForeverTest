@@ -1,0 +1,30 @@
+Number of Elements
+----------------------
+GroundElements
+        Name    Color
+1.  0 = water, BLAU ,       GroundElement
+2.  1 = dreck, DARK GRAY,   GROUND ELEMTN
+3.  2 = Luft, WHITE,        GroundElement
+4.  3
+5.  4
+6.  5 = Gras, GREEN,        GroundElement
+    100. 99
+    
+--------------------------------
+
+Tiere 
+
+101. 100 = Kuh   BROWN      Einheit    
+102. 101 = Wolf  Grey       Einheit
+...
+150. 149 = 
+----------------------------
+
+Humanoide
+
+151. 150 = meineRasse, f
+152. 151 = meineRasseBauer
+
+----------------------
+maennl = 0
+weibl = 1

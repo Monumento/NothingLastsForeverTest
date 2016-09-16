@@ -1,3 +1,2 @@
-language: android
-android:
-  - "0.10"
+language: java
+
